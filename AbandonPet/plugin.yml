@@ -1,0 +1,3 @@
+name: BSPAbandonPet
+main: abandonpet.AbandonPet
+version: 1.0
