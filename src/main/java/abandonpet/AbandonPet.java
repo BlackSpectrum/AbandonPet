@@ -1,4 +1,4 @@
-package abandonpet;
+package main.java.abandonpet;
 
 import org.bukkit.Material;
 import org.bukkit.entity.EntityType;
