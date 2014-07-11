@@ -1,0 +1,4 @@
+name: BSP${project.name}
+main: ${project.groupId}.abandonpet.AbandonPet
+version: ${project.version}
+author: Mats391
