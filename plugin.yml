@@ -1,3 +1,3 @@
 name: BSPAbandonPet
-main: main.java.abandonpet.AbandonPet
+main: io.github.mats391.abandonpet.AbandonPet
 version: 1.0
